@@ -1,0 +1,39 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+.block{
+    margin-top: 11.6px;
+}
+.text-width{
+    max-width: 447px;
+    width: 100%;
+    height: 277px;
+}
+.img{
+    max-width: 450px;
+    width: 100%;
+    height: 606px;
+}
+.block-info{
+    margin-top: 91px;
+    margin-bottom: 161px;
+}
+.card-size{
+    max-width: 366.84px;
+    width: 100%;
+    height: 410px;
+}
+.image-size{
+    max-width: 90px;
+    width: 100%;
+    height: 90px;
+}
+.into{
+    max-width: 302px;
+    width: 100%;
+    height: 151px;
+}
